@@ -155,7 +155,7 @@ The default list of match functions are:
 - Levenshtein difference between subject and canonical string is less than or equal to two (2)
 - all tokens (separated by whitespace) of subject and canonical matched according to exact match or levenshtein
 
-If no matcher function finds a match, the `translate/2,3' functions
+If no matcher function finds a match, the `translate/2,3` functions
 return the original subject string. Additionally, if the start
 option `[fixed]` was *not* provided, the subject string is entered
 into the list of canonical strings.
