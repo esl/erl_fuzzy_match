@@ -1,6 +1,6 @@
 # Erlang Fuzzy String Matcher
 
-The Fuzzy Match for Erlang pulls together a handful of algorithms
+The Fuzzy String Matcher for Erlang pulls together a handful of algorithms
 to make fuzzy string matching available as a library to your Erlang
 programs.
 
