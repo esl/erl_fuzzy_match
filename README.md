@@ -151,7 +151,7 @@ the next one on the list is tried.
 
 The default list of match functions are:
 - exact match (via the dictionary)
-- abbreviation match (using [this](http://stackoverflow.com/questions/7331462/check-if-a-string-is-a-possible-abbrevation-for-a-name) algorithm)
+- abbreviation match (using [this](http://stackoverflow.com/a/7331558) algorithm)
 - Levenshtein difference between subject and canonical string is less than or equal to two (2)
 - all tokens (separated by whitespace) of subject and canonical matched according to exact match or levenshtein
 
