@@ -184,3 +184,5 @@ canonicals(Name)
 - Configurability of the Levenshtein distance threshold.
 - Upfront configurability of the default matcher sequence.
 - Upfront configurability of externally defined matchers.
+- Lowercase strings before matching.
+- Strip out punctuation characters before matching.
